@@ -32,6 +32,8 @@ O projeto deve ser desenvolvido do zero, seguindo as regras e tecnogias requisit
        - Data de Atualização
        - Situação
 
+> Para fins de teste você pode utilizar a hash `5ff9d0a04a7b1b08bdcbb57a`
+
 ##### Bônus 👀
 
 - Na tela de listagem, incluir um filtro por situação. Esse filtro deve ser feito no front-end.
