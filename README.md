@@ -19,7 +19,7 @@ O projeto deve ser desenvolvido do zero, seguindo as regras e tecnogias requisit
    - ###### Criar uma tela inicial que receba uma hash (string) de contato e realize uma consulta na API
      - Essa tela deve conter um input, requisitando  a hash do contato.
      - Assim que o usuário informar a hash e confirmar com o uso de um botão, deve-se fazer a requisição na API passando os parâmetros corretamente.
-     - Se a API retornar com status diferente de 200, exibir mensagem em tela para o usuário, dependendo do que ocorreu.
+     - Se a API retornar com status diferente de 200, exibir uma mensagem do jeito que você achar mais amigável ao usuário, dependendo do que ocorreu.
      - Se a API retonar 200, mandar o usuário para uma página de detalhes com os dados da simulação.
    - ###### Construir a tela de detalhes com os dados obtidos
   
