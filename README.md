@@ -2,8 +2,10 @@
 
 ![Logotipo Aires Crédito Digital](https://www.aires.digital/_nuxt/img/aires-logo-blue.031b66e.svg)
 
+[Acesse o site da Aires](https://www.aires.digital)
+
 Saudações, candidato. 🖖
-Gostariamos de conhecer mais sobre sua expêriencia técnica e entender como você desenvolve um projeto do zero, com uso real do que verá no seu dia a dia trabalhando na Aires. Para esse teste, você deve estar preparado para consumir e listar os dados da nossa API, que retornará dados das simulações de FGTS de um cliente fictício.
+Gostariamos de conhecer mais sobre sua expêriencia técnica e entender como você desenvolve um projeto do zero, com uso real do que verá no seu dia a dia trabalhando na Aires. Para esse teste você deve estar preparado para consumir e listar os dados da nossa API, que retornará dados das simulações de FGTS de um cliente fictício.
 
 ## Tecnologias e regras
  
@@ -13,7 +15,7 @@ Gostariamos de conhecer mais sobre sua expêriencia técnica e entender como voc
  Lembrando que aqui na Aires, utilizamos Vue.js e Angular 2+ como framework front-end, mas mandatoriamente Vue.js. Caso selecionado e você não souber Angular 2+, não será um problema, iremos auxiliá-lo no processo de aprendizagem do framework. 🤝🤓
 
 ### Regras
-O projeto deve ser desenvolvido do zero, seguindo as regras e tecnogias requisitadas. Você deve criar um projeto do ZERO, sem uso de boilerplate ou templates já construidos anteriomente.
+Você deve criar um projeto do ZERO, sem uso de boilerplate ou templates já construidos anteriomente.
  
 ##### Obrigatório  💪
    - ###### Criar uma tela inicial que receba uma hash (string) de contato e realize uma consulta na API
