@@ -59,7 +59,7 @@ Qualquer outra coisa não listada abaixo, é opcional e a sua escolha.
 ### Entrega do teste
 Primeiramente, você pode fazer um fork desse repositório aqui, para sua conta do Github, depois disso crie uma branch nova com o seu nome (ex: nome_sobrenome), para podermos indentificá-lo.
 
-Após terminar o desafio, você pode solicitar um pull request para a branch master do nosso repositório.
+Após terminar o desafio, você pode solicitar um pull request para a branch main do nosso repositório.
 Depois disso, avise a pessoa que lhe enviou teste.
 
 
