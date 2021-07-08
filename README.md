@@ -5,7 +5,7 @@
 Saudações, candidato. 🖖
 Gostariamos de conhecer mais sobre sua expêriencia técnica e entender como você desenvolve um projeto do zero, com uso real do que verá no seu dia a dia trabalhando na Aires. Para esse teste, você deve estar preparado para consumir e listar os dados da nossa API, que retornará dados das simulações de FGTS de um cliente fictício.
 
-## Técnologias e regras
+## Tecnologias e regras
  
  Abaixo, umas lista com as regras e requisitos técnicos necessários.
  Se você utilizar algo que não seja obrigatório, contará como um bônus para a sua candidatura. 👏👏
@@ -36,9 +36,9 @@ O projeto deve ser desenvolvido do zero, seguindo as regras e tecnogias requisit
 
 - Na tela de listagem, incluir um filtro por situação. Esse filtro deve ser feito no front-end.
 
-### Técnologias
+### Tecnologias
 Qualquer outra coisa não listada abaixo, é opcional e a sua escolha.
-| Técnologia | Requisito |  Obrigatório |
+| Tecnologia | Requisito |  Obrigatório |
 | ---------- | --------- |  --------------- |
 | Framework JS | Vue.js (2 ou 3) | Sim |
 | Pré-processador JS | Typescript | Sim |
