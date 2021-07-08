@@ -20,7 +20,7 @@ O projeto deve ser desenvolvido do zero, seguindo as regras e tecnogias requisit
      - Essa tela deve conter um input, requisitando  a hash do contato.
      - Assim que o usuário informar a hash e confirmar com o uso de um botão, deve-se fazer a requisição na API passando os parâmetros corretamente.
      - Se a API retornar com status de erro, exibir mensagem em tela para o usuário, dependendo do erro ocorrido.
-     - Se a API retonar 200, mandar para uma página de detalhes com os dados da simulação.
+     - Se a API retonar 200, mandar o usuário para uma página de detalhes com os dados da simulação.
    - ###### Construir a tela de detalhes com os dados obtidos
   
      - Nessa tela deve ser exibido um card para cada objeto do array retornado da API.
@@ -37,7 +37,7 @@ O projeto deve ser desenvolvido do zero, seguindo as regras e tecnogias requisit
 - Na tela de listagem, incluir um filtro por situação. Esse filtro deve ser feito no front-end.
 
 ### Técnologias
-Qualquer outra coisa não listada abaixado, é opcional e a sua escolha.
+Qualquer outra coisa não listada abaixo, é opcional e a sua escolha.
 | Técnologia | Requisito |  Obrigatório |
 | ---------- | --------- |  --------------- |
 | Framework JS | Vue.js (2 ou 3) | Sim |
