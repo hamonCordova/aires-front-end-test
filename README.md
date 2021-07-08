@@ -53,7 +53,7 @@ Qualquer outra coisa não listada abaixo, é opcional e a sua escolha.
 | Testes Automatizados | A sua escolha | Não |
 | Metodologia CSS | A sua escolha (recomendado: BEM) | Não |
 
-### API
+## API
 
 | URL | Parâmetro |
 | ---------- | --------- |
