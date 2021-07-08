@@ -60,7 +60,7 @@ Qualquer outra coisa não listada abaixo, é opcional e a sua escolha.
 | https://integracoes-api-stage.aires.digital/simulacao/contato-whatsapp/${hash} | ${hash}, obtida no input da tela inicial | 
 > Em todas as URL's devem ser utilizadas uma key no header, `x-api-key` sendo `c6354fcd-781a-4e09-a4d8-a14df1404196` seu valor.
 
-### Entrega do teste
+## Entrega do teste
 Primeiramente, você pode fazer um fork desse repositório aqui, para sua conta do Github, depois disso crie uma branch nova com o seu nome (ex: nome_sobrenome), para podermos identificá-lo.
 
 Após terminar o desafio, você pode solicitar um pull request para a branch main do nosso repositório. Caso não deseje fazer o pull request, adicione o projeto em um repositório  no Github e nos mande o link.
